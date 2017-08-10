@@ -1,5 +1,14 @@
-.logo {
+body{
+    background-color: #F0F0F0;
+}
+.white-bar {
+    height: 60px;
+    background-color: white;
+    margin-top: 35px;
+    z-index: -1;
+    position: relative
+}
+.logo{
     height: 105px;
     width: 105px;
-    margin:0 auto;
 }
