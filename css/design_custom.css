@@ -18,8 +18,7 @@ body{
 
 ul {
     list-style-type: none;
-    display: inline-block;
-    float: left;
+    padding-left: 0px;
 }
 
 .abel {
@@ -28,4 +27,20 @@ ul {
 
 .anton {
     font-family: 'Anton', sans-serif;
+}
+li{
+    display: inline;
+    padding: 8px;
+}
+#main{
+    font-size: 48px;
+}
+h3{
+    font-size: 40px;
+}
+.circle{
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    font-size: 40px;
 }
