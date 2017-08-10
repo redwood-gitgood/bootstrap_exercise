@@ -1,5 +1,6 @@
 body{
     background-color: #F0F0F0;
+    text-align: center;
 }
 .white-bar {
     height: 60px;
@@ -11,4 +12,20 @@ body{
 .logo{
     height: 105px;
     width: 105px;
+    position: relative;
+    bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.abel {
+    font-family: 'Abel', sans-serif;
+}
+
+.anton {
+    font-family: 'Anton', sans-serif;
 }
