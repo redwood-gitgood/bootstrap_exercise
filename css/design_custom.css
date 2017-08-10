@@ -18,7 +18,7 @@ body{
 
 ul {
     list-style-type: none;
-    padding-left: 0px;
+    padding-left: 0;
 }
 
 .abel {
@@ -39,8 +39,22 @@ h3{
     font-size: 40px;
 }
 .circle{
-    height: 85px;
-    width: 85px;
+    height: 160px;
+    width: 160px;
     border-radius: 50%;
-    font-size: 40px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    position: relative;
+    border: 10px solid white;
+
+}
+
+.circle p {
+    top: 60px;
+    position: relative;
+}
+
+#red {
+    background-color: #E6563B;
 }
