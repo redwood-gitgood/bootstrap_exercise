@@ -47,6 +47,7 @@ h3{
     text-align: center;
     position: relative;
     border: 10px solid white;
+    margin-bottom: 10px;
 
 }
 
@@ -57,4 +58,19 @@ h3{
 
 #red {
     background-color: #E6563B;
+}
+
+#orange {
+    background-color: #F29E00;
+}
+
+#green {
+    background-color: #7cd06c;
+}
+
+#blue {
+    background-color: #00aba9;
+}
+.top-buffer{
+    margin-top: 100px;
 }
