@@ -97,4 +97,21 @@ hr {
     border: 2px solid #e6e6e6;
 }
 
+.aside {
+    position: relative;
+    height: 50px;
+    padding-right: 10px;
+    margin-bottom: 25px;
+}
 
+.aside img {
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+
+h4 {
+    margin-left: 85px;
+    text-align: left;
+    font-size: 25px;
+}
