@@ -90,6 +90,11 @@ h3{
     margin-left: 5px;
 }
 
-@media screen and (max-width: 768px) {
-
+.sm-nav{
+    text-align: right;
+}
+.nav-bar{
+    margin-top: 35px;
+    position: relative;
+    top: 35px;
 }
